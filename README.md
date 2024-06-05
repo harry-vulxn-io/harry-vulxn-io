@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harry Williams (@harry-vulxn-io")
+- 👋 Hi, I’m Harry Williams (@harry-vulxn-io)
 - 👀 I’m interested in finding awesome projects around the world!
 - 🌱 I’m currently learning VueJS!
 - 💞️ I’m looking to collaborate on all sorts, just hit me up!
